@@ -15,11 +15,11 @@
       "date": "2020-06-25T13:38:45.270Z"
     },
     {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-06-25T10:00:52.723Z",
-      "id": 3
+      "id": 3,
+      "message": "1122 wireless fixed",
+      "attention": false,
+      "tech": "Thabiso Klip",
+      "date": "2020-06-30T02:39:51.411Z"
     }
   ],
   "techs": [
@@ -37,6 +37,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Thabiso",
+      "lastName": "Klip",
+      "id": 4
     }
   ]
 }
